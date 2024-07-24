@@ -1,0 +1,559 @@
+{
+    "faqs": [
+        {
+            "title": "How does the blood donation process work?",
+            "description": "Donating\u00a0blood is a simple thing to do, but can make a big difference in the lives of others. The donation process from the time you arrive until the time you leave takes about an hour.\u00a0The donation itself is only about 8-10 minutes on average.\u00a0The steps in the process are:\nRegistration\n\nYou will complete donor registration, which includes information such as your name, address, phone number, and donor identification number (if you have one).\nYou will be asked to show a donor card, driver\u2019s license or two other forms of ID.\n\nHealth History and Mini Physical\n\nYou\u00a0will answer some\u00a0questions\u00a0during a private and confidential interview about your health history and the places you have traveled.\nYou will have your temperature, hemoglobin, blood pressure and pulse checked.\n\nDonation\n\nWe\u00a0will cleanse an area on your arm and insert a brand\u2013new, sterile needle for the blood draw. This feels like a quick pinch and is over in seconds.\nYou will have some time to relax while the bag is filling. (For a whole blood donation, it is about 8-10 minutes. If you are donating platelets, red cells or plasma by apheresis the collection can take up to 2 hours.)\nWhen approximately a pint of blood has been collected, the donation is complete and a staff person will place a bandage on your arm.\u00a0\n\nRefreshments\n\nYou will spend a few minutes enjoying refreshments to allow your body time to adjust to the slight decrease in fluid volume. \nAfter 10-15 minutes you can then leave the donation site and continue with your normal daily activities. \nEnjoy the feeling of accomplishment knowing that you have helped to save lives.\n\nYour gift of blood may help up to three people. Donated red blood cells do not last forever. They have a shelf-life of up to 42 days. A healthy donor may donate every 56 days.\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "What should I do after donating blood?",
+            "description": "After you give blood:\nTake the following precautions:\n\nDrink an extra four glasses (eight ounces each) of non-alcoholic liquids.\nKeep your bandage on and dry for the next five hours, and do not do heavy exercising or lifting.\nIf the needle site starts to bleed, raise your arm straight up and press on the site until the bleeding stops.\nBecause you could experience dizziness or loss of strength, use caution if you plan to do anything that could put you or others at risk of harm. For any hazardous occupation or hobby, follow applicable safety recommendations regarding your return to these activities following a blood donation.\nEat healthy meals and consider adding iron-rich foods to your regular diet, or discuss taking an iron supplement with your health care provider, to replace the iron lost with blood donation.\nIf you get a bruise:\u00a0\u00a0Apply ice to the area intermittently for 10-15 minutes during the first 24 hours. Thereafter, apply warm, moist heat to the area intermittently for 10-15 minutes. A rainbow of colors may occur for about 10 days.\nIf you get dizzy or lightheaded:\u00a0\u00a0Stop what you are doing, lie down, and raise your feet until the feeling passes and you feel well enough to safely resume activities.\nAnd remember to enjoy the feeling of knowing you have helped save lives!\nSchedule your next appointment.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "Will it hurt when you insert the needle?",
+            "description": "Only for a moment. Pinch the fleshy, soft underside of your arm. That pinch is similar to what you will feel when the needle is inserted.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "How long does a blood donation take?",
+            "description": "The entire process takes about one hour and 15 minutes; the actual donation of a pint of whole blood unit takes eight to 10 minutes. However, the time varies slightly with each person depending on several factors including the donor\u2019s health history and attendance at the blood drive.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "How long will it take to replenish the pint of blood I donate?",
+            "description": "The plasma\u00a0from your donation is\u00a0replaced within about 24 hours. Red cells need about four to six weeks for complete replacement. That\u2019s why at least eight weeks are required between whole blood donations.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "Why does the Red Cross ask so many personal questions when I give blood?",
+            "description": "The highest priorities of the Red Cross are the safety of the blood supply and our blood donors. Some individuals may be at risk of transferring communicable disease through blood donation due to exposure via travel or other activities or may encounter problems with blood donation due to their health. We ask these questions to ensure that it is safe for patients to receive your blood and to ensure that it is safe for you to donate blood that day.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": " How often can I donate blood?",
+            "description": "You must wait at least eight weeks (56 days) between donations of whole blood and 16 weeks (112 days) between Power Red\u00a0donations. Whole blood donors can donate up to 6 times a year. Platelet apheresis donors may give every 7 days up to 24 times per year.\u00a0Regulations are different for those giving blood for themselves (autologous donors).\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "Who can donate blood?",
+            "description": "In most states, donors must be age 17 or older. Some states allow donation by 16-year-olds with a signed parental consent form. Donors must weigh at least 110 pounds and be in good health. Additional\u00a0eligibility criteria\u00a0apply.\n\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "Can I bring guests or children with me to my donation appointment?",
+            "description": "At this time, we are allowing additional guests or children to accompany donors to their donation appointment. Guests are expected to follow any safety protocols in place at the time of donation. The safety of our donors, volunteers, and employees is of the utmost importance.\u00a0\u00a0Children who do not require supervision and are not disruptive are welcome to sit in the waiting or refreshment area.\u00a0 If they require supervision another adult must be present.\n",
+            "category": "Blood Donation Process"
+        },
+        {
+            "title": "What is apheresis?",
+            "description": "Apheresis is the process by which platelets and other specific blood components (red cells or plasma) are collected from a donor. The word \u201capheresis\u201d is derived from the Greek word aphaeresis meaning \u201cto take away.\u201d This process is accomplished by using a machine called a cell separator. Blood is drawn from the donor and the platelets, or another blood component, are collected by the cell separator and the remaining components of the blood are returned to the donor during the donation. Each apheresis donation procedure takes about one-and-one-half to two hours. Donors can watch movies or relax during the donation.\n\n",
+            "category": "Platelet Donations"
+        },
+        {
+            "title": "What are platelets and how are they used?",
+            "description": "Platelets are tiny, colorless, disc-shaped particles circulating in the blood, and they are essential for normal blood clotting. Platelets are critically important to the survival of many patients with clotting problems (aplastic anemia, leukemia) or cancer, and patients who will undergo organ transplants or major surgeries like heart bypass grafts. Platelets can only be stored for five days after being collected. Maintaining an adequate supply of this lifesaving, perishable product is an ongoing challenge.\n\n",
+            "category": "Platelet Donations"
+        },
+        {
+            "title": "How often can I give platelets?",
+            "description": "Every 7 days up to 24 apheresis donations can be made in a year. Some apheresis donations can generate\u00a0two or three\u00a0adult-sized platelet transfusion doses from one donation!\n\n",
+            "category": "Platelet Donations"
+        },
+        {
+            "title": "When will donors be notified of their test results? And how can donors access test results? ",
+            "description": "Red Cross donors can expect to receive the results of their sickle cell trait screening within one to two weeks through our Red Cross Blood Donor App or on our donor portal at RedCrossBlood.org.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Why does the Red Cross ask donors to select their race at the time of donation?",
+            "description": "The Red Cross asks blood and platelet donors to select their race and ethnicity at the time of donation to help meet the unique transfusion needs of a diverse patient population. By identifying a donor\u2019s race and ethnicity, it helps the Red Cross better and more efficiently locate rare blood types to best meet the needs of all patients of all backgrounds. Certain blood characteristics are inherited, making them more likely to be found within certain donor groups. These matched blood products provide a more compatible unit for transfusion to patients in need.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What does a \u201cinconsistent\u201d result mean? ",
+            "description": "An inconsistent result means that the Red Cross is not able to confirm a positive or negative screening result. In some cases, this is because the Red Cross immunohematology reference laboratory may have previously tested their donation for sickle cell trait at the request of a hospital to fulfill a specific product need. In these cases, the donor may have received a previous result of negative or positive. While the Red Cross will work to resolve many inconsistent results, a portion will remain inconsistent. \n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What does it mean to carry the sickle cell trait? ",
+            "description": "It is estimated that about 1 in 13 Black or African American babies in the U.S. is born with sickle cell trait, which means they have inherited the sickle cell gene from one of their parents. Carrying the sickle cell trait does not mean that an individual has sickle cell disease. Individuals who only carry the sickle cell trait are eligible to donate platelets and plasma.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "How does this screening differ from a sickle cell trait diagnostic test? ",
+            "description": "Sickle cell trait screening is not a diagnostic test. This screening is performed on a blood sample given during the standard donation process to look for the presence of an abnormal type of hemoglobin, called hemoglobin S or sickled hemoglobin, a key indicator of sickle cell trait. This means it is likely the individual inherited one sickle cell gene and one normal gene from their parents. If an individual receives a positive result, they should consult their medical provider to discuss their test results and pursue additional confirmatory diagnostic testing.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Why is the Red Cross only screening donations from African American donors for sickle cell trait?",
+            "description": "The Red Cross is testing blood donations from multiracial and Black or African American donors because the sickle cell trait is most commonly carried among those of African descent.\u00a0In fact, 8-10% of African Americans have sickle cell trait.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "How is the Red Cross able to fund sickle cell screening if it is not charging donors? ",
+            "description": "The Red Cross is working to rally the support of generous financial donors to help fund this program. We are also looking into other possible funding sources.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Why is it beneficial for Black individuals to know if they have the sickle cell trait? ",
+            "description": "Many individuals with sickle cell trait are unaware of their status. Sickle cell trait is inherited and means that an individual received one sickle cell gene and one normal gene from their parents. While, carrying the trait does not mean that an individual has sickle cell disease, health experts recommend that individuals with sickle cell trait be aware of their status and consult their medical provider on what it means for them. In general, many individuals who carry the sickle cell trait have no medical problems related to sickle cell trait.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "How accurate are the sickle cell test screenings the Red Cross is using? ",
+            "description": "The sickle cell trait screenings the Red Cross is using are highly accurate and effective at detecting the presence of an abnormal type of hemoglobin a key indicator of sickle cell trait. However, these screening are not perfect. As with all tests and screening, false results, or a screening result that incorrectly states the presence of abnormal hemoglobin, can occur. This is why those who receive a positive result are encouraged to consult their medical provider for confirmatory testing and discuss what their results mean for them.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "How long will the Red Cross be screening blood donations for the sickle cell trait? ",
+            "description": "The Red Cross plans to screen blood, platelet and plasma donations from 250,000 self-identified multiracial and Black or African American blood donors through its Sickle Cell Initiative.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Will there be a donor charge for this screening? ",
+            "description": "No. Like other blood donation screenings, sickle cell trait screening is part of the blood donation testing process which occurs at no charge to the donor.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Why is the Red Cross expanding it\u2019s testing to include sickle cell trait screening on all donations from self-identified multiracial and Black or African American donors.",
+            "description": "We understand that for many donors, having greater insight into their health during this pandemic is important to them \u2013 as such the Red Cross has expanded its testing to include sickle cell trait screening on all donations from self-identified multiracial and Black or African American donors. In addition, this screening helps the Red Cross identify compatible blood types to help sickle cell patients more quickly.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What if someone is not eligible to give blood, can they still receive a sickle cell trait screening? ",
+            "description": "Donors will need to have a successful donation to receive sickle cell trait screening results. Per standard donation procedure, only successful donations are sent to our laboratory for screening.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What does it mean to have a negative sickle cell screening result? ",
+            "description": "A negative result indicates that screening did not detect sickled hemoglobin or hemoglobin S \u2013 a key indicator of sickle cell trait. This means that the individual is likely not a sickle cell trait carrier. It is important to note, that the Red Cross is not screening for other abnormal hemoglobin cells that can also cause sickling \u2013 such as hemoglobin C.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Will sickle cell trait screening change the donation process for presenting donors? ",
+            "description": "No. The Red Cross blood donation process at our blood drives and donation centers will not change. Blood, platelet and plasma donations will be screened using samples obtained at the time of donation and sent to a testing laboratory where the samples will also undergo routine screening and infectious disease testing.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Can individuals that only carry the sickle cell trait donate?",
+            "description": "Individuals who only carry the sickle cell trait are eligible and encouraged to donate platelets or plasma to help those in need of lifesaving blood, including cancer patients and burn victims.\nRecent research has shown that sickle cell trait-positive whole blood and Power Red donations do not adequately pass a quality control step due to a filter limitation during processing. As a result, after Aug. 7 donors who test positive for sickle cell trait \u2013 and current donors whose donations do not adequately pass the red blood cell filter process \u2013 are restricted from giving a whole blood or Power Red donations. It\u2019s important to note that this is an industrywide filter limitation and not a donor issue.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Is this screening a new testing initiative for the Red Cross? ",
+            "description": "No. Red Cross immunohematology-reference laboratories (IRL) have historically tested select donations for sickle cell trait at the request of a hospital partner actively looking to fulfill a specific blood product need. For a limited time, we are also expanding our screening to include all blood, platelet and plasma donations from self-identified multiracial and Black or African American donors to allow us to identify compatible blood donations even faster to help patients in need of a blood transfusion.\u00a0\u00a0\nDonations from Black individuals who do not carry the sickle cell trait are often the most compatible blood products for sickle cell patients. However, 51% of African Americans have type O (positive or negative) blood, in comparison to approximately 45% of white individuals. Type O blood is most often in critical supply as it is most often needed by hospitals. Black donors play a vital role in helping meet the needs of all patients including \u2013 individuals who experience complicated childbirths, people fighting cancer, and accident victims being raced to emergency rooms.\u00a0\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Do donors need to have a successful donation to receive a sickle cell trait screening result? ",
+            "description": "Yes. Donors will need to have a successful donation to receive sickle cell trait screening results. Per standard donation procedure, only successful donations are sent to our laboratory for testing.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What if I don\u2019t have the app or have internet access? How can I get my test results? ",
+            "description": "The Red Cross encourages donors to access their screening results through our Red Cross Blood Donor App or on our donor portal at RedCrossBlood.org. This will provide the most expedient access to test results. If a donor has questions or issues with the Blood Donor App or portal functionality, please contact 855-210-1278. If a donor does not have internet service and therefore cannot use the two recommended channels, they may call the Red Cross Donor and Client Support Center 14 days after donation at 1-866-236-3276 to obtain their results.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What test is the Red Cross using to screen donations for the sickle cell trait? ",
+            "description": "The Red Cross is using the Pacific Hemostasis\u00ae SickleScreen\u00ae Sickling Hemoglobin Screening Kit and the Streck Sickledex\u00ae Solubility Testing Kit. This test is used to detect abnormal sickling hemoglobin cells or hemoglobin S.\nWe recognize there are other abnormal hemoglobin cells that can cause sickling. However, this test rarely detects presence of these other hemoglobin cells.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Why wasn\u2019t my donation screened for sickle cell trait? ",
+            "description": "While rare, some donations may not be able to be tested due to processing issues. Donors will need to have a successful donation to receive sickle cell trait screening results. Per standard procedures, only successful donations are sent to our laboratory for testing.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What does it mean to have a positive sickle cell screening result? ",
+            "description": "A positive result indicates that the screening detected the presence of an abnormal type of hemoglobin called hemoglobin S or sickled hemoglobin, a key indicator of sickle cell trait. This means it is likely the individual inherited one sickle cell gene and one normal gene from their parents. If an individual receives a positive result, they should consult their medical provider to discuss their test results and pursue additional confirmatory testing.\nIn addition to providing individuals with their results via the Blood Donor App and donor portal on RedCrossBlood.org, those who have positive results will also receive a letter in the mail.\nIt\u2019s important to note, that carrying the sickle cell trait does not mean that an individual has sickle cell disease. In general, many individuals who carry the sickle cell trait have no medical problems related to sickle cell trait.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Is this sickle cell trait screenings the Red Cross is using FDA approved? ",
+            "description": "The Red Cross is using the Pacific Hemostasis\u00ae SickleScreen\u00ae Sickling Hemoglobin Screening Kit and the Streck Sickledex\u00ae Solubility Testing Kit to screen donations from self-identified African Americans for abnormal hemoglobin\u2014a key indicator of sickle cell trait. Both screenings are authorized for use by the FDA and are highly accurate.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Will the Red Cross be providing sickle cell trait screening results to anyone beside the donor? ",
+            "description": "No. The Red Cross will not release your screening result or any other test result without your written permission unless required by law. The Red Cross is only required to report positive sickle cell trait results in writing to donor. We do encourage those individuals who receive a positive sickle cell trait result to consult their medical provider to discuss their test results and pursue additional confirmatory testing.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "What if a donor does not want to have their donation screened for sickle cell trait? ",
+            "description": "If an individual does not want their donation to be screened for sickle cell trait, they should select the \u201cI prefer not to answer or other\u201d response regarding their race and ethnicity. Only donations\u00a0from self-identified multiracial and Black or African American donors will be screened for sickle cell trait.\nSelf-identifying your race and ethnicity helps the Red Cross better and more efficiently locate rare blood types to best meet the needs of all patients of all backgrounds. Certain blood characteristics are inherited making them more likely to be found within certain donor groups. These matched blood products provide a more compatible unit for transfusion to patients in need.\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "How does this screening test differ from the required sickle cell test performed on newborns at risk for sickle cell disease and/or sickle cell trait? ",
+            "description": "Since May 2006, all babies receive a newborn screening test for sickle cell\u00a0anemia to identify a potential medical emergency, appropriately treat the disease early and reduce infant mortality.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Will every donation be screened every time? ",
+            "description": "No, because a donor\u2019s sickle cell trait status does not change over time, donations will only be tested once. This information, along with other blood type attributes becomes part of an individual\u2019s confidential donor record and is used to help the Red Cross identify compatible units for patients in crisis as quickly as possible.\u00a0\n",
+            "category": "Sickle Cell Trait Screening"
+        },
+        {
+            "title": "Aspirin",
+            "description": "Aspirin, no waiting period for donating whole blood. However, you must wait 2 full days after taking aspirin or any medication containing aspirin before donating platelets by apheresis. For example, if you take aspirin products on Monday, the soonest you can donate platelets is Thursday.\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Antibiotics",
+            "description": "A donor with an acute infection can not donate. The reason for antibiotic use must be evaluated to determine if the donor has a bacterial infection that could be transmissible by blood.\nAcceptable after finishing oral antibiotics for an infection (bacterial or viral). Can have taken last pill on the date of donation.\u00a0Antibiotic by injection for an infection acceptable 10 days after last injection. Acceptable if you are taking antibiotics to prevent an infection for the following reasons: acne, chronic prostatitis, peptic ulcer disease, periodontal disease, pre-dental work, rosacea, ulcerative colitis, after a splenectomy, or valvular heart disease. If you have a temperature above 99.5 F, you can not donate.\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Birth Control",
+            "description": "Individuals\u00a0on oral contraceptives or using other forms of birth control are eligible to donate.\n\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Immunization, Vaccination",
+            "description": "\nAcceptable if you were vaccinated for influenza, RSV, pneumonia, tetanus or meningitis, providing you are symptom-free and fever-free. Includes the Tdap vaccine.\nAcceptable if you received an HPV Vaccine (example, Gardasil).\nAcceptable if you were vaccinated with SHINGRIX (shingles vaccine) providing you are symptom-free and fever-free. SHINGRIX vaccine is administered in 2 doses (shots). The second shot is administered 2-6 months after the first shot. This distinguishes it from Zostavax, the live shingles vaccine, which is given as a single dose (shot) and requires a 4-week deferral.\nWait 4 weeks after immunizations for German Measles (Rubella), MMR (Measles, Mumps and Rubella), Chicken Pox and Zostavax, the live shingles vaccine.\nWait 2 weeks after immunizations for Red Measles (Rubeola), Mumps, Polio (by mouth), and Yellow Fever vaccine.\nWait 21 days after immunization for hepatitis B as long as you are not given the immunization for exposure to hepatitis B.\nCOVID-19 Vaccine and COVID-19 Booster Shot\u00a0\nAcceptable if you were vaccinated with\u00a0a non-replicating, inactivated, or RNA-based COVID-19 vaccine manufactured by Janssen/J&J, Moderna, Novavax, or Pfizer providing you are symptom-free and fever-free.\nWait 2 weeks if you were vaccinated with a live attenuated COVID-19 vaccine.\nWait 2 weeks if you were vaccinated with a COVID-19 vaccine but do not know if it was a non-replicating, inactivated, RNA based vaccine or a live attenuated vaccine.\n\n\n\n\nSmallpox/ Monkeypox vaccine:\u00a0There are two types of Smallpox/Monkeypox vaccines so you must know the name of the vaccine to determine if you may be eligible to donate. If you do not know the name of the vaccine you received, you must wait 8 weeks to donate as a precaution.\nACAM2000 vaccine: This is an older vaccine which is administered in a single dose by inoculation (pricking the skin surface several times with a needle).\u00a0 If you receive the ACAM2000 smallpox/monkeypox vaccine, which is a live virus vaccine containing infectious agents then the following apply:\nSmallpox/Monkeypox vaccination and did not develop complications.\u00a0Wait 8 weeks (56 days) after receiving the vaccination to donate blood as long as you have no complications. Complications can include skin reactions beyond the vaccination site or general illness related to the vaccination.\u00a0\nSmallpox/Monkeypox vaccination and developed complications.\u00a0Wait 14 days after all vaccine complications have resolved or 8 weeks (56 days) from the date of having had the smallpox vaccination whichever is the longer period of time. Discuss your particular situation with the health historian at the time of donation. Complications can include skin reactions beyond the vaccination site or general illness related to the vaccination.\u00a0\n\n\nJynneos vaccine: This is a new vaccine that is administered in 2 doses (shots) given 4 weeks apart.\u00a0 If you receive the newer smallpox/monkeypox vaccine called Jynneos, which is a nonreplicating live virus vaccine, which does not contain infectious agents, your eligibility to donate blood is determined based on exposure to Monkeypox.\nIf you received this vaccine after an exposure to Monkeypox, you cannot donate for 21 days after your last exposure.\nIf there is no exposure to monkeypox and you received this vaccine, there is no deferral.\u00a0\n\n\n\n\n\n\u00a0\n\nSmallpox vaccination \u2013 close contact with someone who has had the smallpox vaccine in the last eight weeks and you did not develop any skin lesions or other symptoms.\u00a0Eligible to donate.\n\nSmallpox vaccination \u2013 close contact with someone who has had the vaccine in the last eight weeks and you have since developed skin lesions or symptoms.\nWait 8 weeks (56 days) from the date of the first skin lesion or sore. Discuss your particular situation with the health historian at the time of donation. Complications can include skin reactions or general illness related to the exposure.\n\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Insulin ",
+            "description": "Donors with diabetes who take any kind of insulin are eligible to donate as long their diabetes is well controlled.\u00a0\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Medications",
+            "description": "In almost all cases, medications will not disqualify you as a blood donor. Your eligibility will be based on the reason that the medication was prescribed. As long as the condition is under control and you are healthy, blood donation is usually permitted.\nOver-the-counter oral homeopathic medications, herbal remedies, and nutritional supplements are acceptable. There are a handful of drugs that are of special significance in blood donation. Persons on these drugs have waiting periods following their last dose before they can donate blood:\n\nAccutane, Amnesteem, Absorica, Claravis, Myorisan, Sotret or Zenatane (isotretinoin), Proscar (finasteride), and Propecia (finasteride) - wait 1 month from the last dose.\nAvodart or Jalyn (dutasteride) - wait 6 months from the last dose.\nAspirin, no waiting period for donating whole blood. However, you must wait 2 full days after taking aspirin or any medication containing aspirin before donating platelets by apheresis. For example, if you take aspirin products on Monday, the soonest you may donate platelets is Thursday.\nEffient (prasugrel) \u00a0and Brilinta (ticagrelor)- no waiting period for donating whole blood. However you must wait 7 days after taking\u00a0Brilinta (ticagrelor) before donating platelets by apheresis.\u00a0You must wait 3 days after taking Effient (prasugrel) before donating platelets by apheresis.\nFeldene (piroxicam), no waiting period for donating whole blood. However, you must wait 2 days after taking Feldene (piroxicam) before donating platelets by apheresis.\nCoumadin, Warfilone, Jantoven (warfarin) and Heparin, are prescription blood thinners- Do not donate since your blood will not clot normally. If your doctor discontinues your treatment with blood thinners, wait 7 days before returning to donate.\nArixtra (fondaparinux), Fragmin (dalteparin), Eliquis (apixaban), Pradaxa (dabigatran),Savaysa (edoxaban), Xarelto (rivaroxaban),and Lovenox (enoxaparin) are also prescription blood thinners- Do not donate since your blood will not clot normally. If your doctor discontinues your treatment with these blood thinners, wait 2 days before returning to donate.\nOther prescription blood thinners not listed, call 866-236-3276 to speak with an eligibility specialist about your individual situation.\nHepatitis B Immune Globulin \u2013 given for exposure to hepatitis, wait 3 months after exposure to hepatitis.\nOral HIV Prevention (PrEP and PEP) medications - Truvada (emtricitabine and Tenofovir disoproxil fumarate), Descovy (emtricitabine and tenofovir alafenamide), Tivicay (dolutegravir) and \u00a0Isentress (raltegravir) are given for exposure to HIV, you must wait 3 months after the last dose of medication to donate.\nInjectable HIV Prevention (PrEP and PEP) medications \u2013 Apretude (cabotegravir ) are shots given for exposure to HIV, you must wait 2 years after the last dose of medication to donate.\nHIV treatment also known as antiretroviral therapy (ART) at any time - you are not eligible to donate blood.\nPlavix (clopidogrel) and Ticlid (ticlopidine) \u2013 no waiting period for donating whole blood. However, you must wait 14 days after taking this medication before donating platelets by apheresis.\nZontivity (vorapaxar) \u2013 no waiting period for donating whole blood. However, you must wait 1 month after taking this medication before donating platelets by apheresis.\nRinvoq (upadacitinib) \u2013 wait 1 month\nThalomid (thalidomide) \u2013 wait 1 month\nRevlimid (lenalidomide) \u2013 wait 1 month\nCellcept (mycophenolate mofetil) \u2013 an immunosuppressant \u2013 wait 6 weeks\nSoriatane (acitretin) \u2013 wait 3 years.\nTegison (etretinate) at any time\u00a0\u2013\u00a0you are not eligible to donate blood.\nArava (leflunomide),\u00a0 Erivedge (vismodegib) and Odomzo (sonidegib)\u2013\u00a0wait 2 years.\nAubagio (teriflunomide)\u00a0\u2013\u00a0wait 2 years.\n\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medications and Vaccinations"
+        },
+        {
+            "title": "Cold, Flu",
+            "description": "\nWait if you have a fever or a productive cough (bringing up phlegm)\nWait if you do not feel well on the day of donation.\nWait until you have completed antibiotic treatment for sinus, throat or lung infection.\u00a0\u00a0\u00a0\u00a0\n\n\n",
+            "category": "General Health Considerations"
+        },
+        {
+            "title": "Weight and Height",
+            "description": "You must weigh at least 110 lbs to be eligible for blood donation for your own safety. Students who donate at high school drives and donors 18 years of age or younger must also meet additional height and weight requirements for whole blood donation (applies to girls shorter than 5'3\" and boys shorter than 5').\n\nBlood volume is determined by body weight and height. Individuals with low blood volumes may not tolerate the removal of the required volume of blood given with whole blood donation. There is no upper weight limit as long as your weight is not higher than the weight limit of the donor bed/lounge you are using. You can discuss any upper weight limitations of beds and lounges with your local health historian.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "General Health Considerations"
+        },
+        {
+            "title": "Allergy, Stuffy Nose, Itchy Eyes, Dry Cough",
+            "description": "Acceptable as long as you feel well, have no fever, and have no problems breathing through your mouth.\n\n",
+            "category": "General Health Considerations"
+        },
+        {
+            "title": "Donation Intervals",
+            "description": "\nWait at least 8 weeks between whole blood (standard) donations.\n\nWait at least\u00a07 days between platelet (pheresis) donations.\nWait at least 16 weeks between Power Red\u00a0(automated) donations.\u00a0\u00a0\u00a0\u00a0\n\n",
+            "category": "General Health Considerations"
+        },
+        {
+            "title": "Travel",
+            "description": "You can be exposed to malaria through travel and travel in some areas can sometimes defer donors. If you have traveled outside of the United States and Canada, your travel destinations will be reviewed at the time of donation.\nCome prepared to your donation process with your travel details when you donate. You can download the\u00a0travel form\u00a0and bring it with you to help in the assessment of your travel. You can call\u00a0866-236-3276\u00a0to speak with an eligibility specialist about your travel.\nIf, in the past 3 years, you have been outside the United States or Canada:\n\nWhat countries did you visit?\nWhere did you travel while in this country?\nDid you leave the city or resort at any time? If yes, where did you go?\nWhat mode of transportation did you use?\nHow long did you stay?\nWhat date did you return to the U.S.?\n\nMalaria is transmitted by mosquito bite in certain countries and may be transmitted to patients through blood transfusion. As such the FDA requires the Red Cross and other blood collection organizations to ask individuals to disclose during the donation process if they have traveled to or lived in malaria-countries or if they have had malaria.\nThe FDA does not currently require blood collectors to test blood donations for malaria. However, in March 2024 the FDA approved the first test of its kind with the ability to screen blood donations for malaria. It\u2019s important to know that the Red Cross is committed to ensuring the safety of the blood supply and is currently working with our industry partners and the FDA to evaluate current eligibility guidance regarding malaria and the newly approved test as well as other possible tests awaiting approval.\nIf you have traveled or lived in a malaria-risk country, a waiting period is required before you can donate blood\n\nWait 3 years after completing treatment for malaria.\nWait 3 months after returning from a trip to an area where malaria is found.\nWait 3 years after living more than 5 years in a country or countries where malaria is found. An additional waiting period of 3 years is required if you have traveled to an area where malaria is found if you have not lived a consecutive 3 years in a country or countries where malaria is not found.\n\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Travel Outside the U.S., Immigration"
+        },
+        {
+            "title": "Zika Virus",
+            "description": "If you have been diagnosed with Zika virus infection, wait more than 120 days after your symptoms resolve to donate.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Travel Outside the U.S., Immigration"
+        },
+        {
+            "title": "Ebola Virus",
+            "description": "You are not eligible to donate if you have ever had Ebola virus infection or disease.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Travel Outside the U.S., Immigration"
+        },
+        {
+            "title": "Allergies",
+            "description": "Acceptable as long as you feel well, have no fever, and have no problems breathing through your mouth.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Asthma",
+            "description": "Acceptable as long as you do not have any limitations on daily activities and are not having difficulty breathing at the time of donation and you otherwise feel well. Medications for asthma do not disqualify you from donating.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Bleeding Condition",
+            "description": "If you have a history of bleeding problems, you will be asked additional questions. If your blood does not clot normally, you can not donate since you may have excessive bleeding where the needle was placed. For the same reason, do not donate if you are taking any \"blood thinner\" such as:\n\nAtrixa (fondaparinux)\nCoumadin (warfarin)\nEliquis (apixaban)\nFragmin (dalteparin)\nHeparin\nJantoven (warfarin)\u00a0\nLovenox (enoxaparin)\nPradaxa (dabigatran)\nSavaysa (edoxaban)\nWarfilone (warfarin)\nXarelto (rivaroxaban)\n\nIf you are on aspirin, it is OK to donate whole blood. However, you must be off of aspirin for at least 2 full days in order to donate platelets by apheresis. \u00a0For example, if you take aspirin products on Monday, the soonest you can donate platelets is Thursday. Donors with clotting disorder from Factor V who are not on anticoagulants are eligible to donate; however, all others must be evaluated by the health historian at the collection center.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Blood Pressure (High or Low)",
+            "description": "High Blood Pressure\u00a0- Acceptable as long as your blood pressure is below 180 systolic (first number) and below 100 diastolic (second number) at the time of donation. Medications for high blood pressure do not disqualify you from donating.\nLow Blood Pressure\u00a0- Acceptable as long as you feel well when you come to donate, and your blood pressure is at least 90/50 (systolic/diastolic).\nLearn more about Blood Pressure\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Pulse (High or Low)",
+            "description": "Acceptable as long as your pulse is no more than 100 and no less than 50.\u00a0 A pulse that is regular and less than 50 will require evaluation by the regional American Red Cross physician.\nWhen you come to donate blood at the American Red Cross, we measure your blood pressure, pulse, temperature, and hemoglobin because the results provide information about your current health at the time of your donation.\u00a0 The Red Cross does not diagnose medical conditions or offer treatment.\nPhysical exam results vary throughout the day.\u00a0 Stress, nutrition, illness, hydration, weight, activity, environment and even consumption of certain ingredients (for example, salt or caffeine) can affect the results of the physical exam.\u00a0 If your result does not meet the minimum/maximum requirement at the time of your attempted donation you will not be permitted to donate.\u00a0\u00a0\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Cancer",
+            "description": "Eligibility depends on the type of cancer and treatment history. If you had leukemia or lymphoma, including Hodgkin\u2019s Disease and other cancers of the blood, you are not eligible to donate. Other types of cancer are acceptable if the cancer has been treated successfully and it has been more than 12 months since treatment was completed and there has been no cancer recurrence in this time. Lower risk in-situ cancers including squamous or basal cell cancers of the skin that have been completely removed and healed do not require a 12-month waiting period.\n\nPrecancerous conditions of the uterine cervix do not disqualify you from donation if the abnormality has been treated successfully. Discuss your particular situation with the health historian at the time of donation.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Chronic Illnesses",
+            "description": "Most chronic illnesses are acceptable as long as you feel well, the condition is under control, and you meet all other eligibility requirements.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "CJD",
+            "description": "Creutzfeldt-Jakob Disease (CJD)\u00a0If you ever received a dura mater (brain covering) transplant you are not eligible to donate. \u00a0If you received an injection of cadaveric pituitary human growth hormone (hGH) you cannot donate. Human cadaveric pituitary-derived hGH was available in the U.S. from 1958 to 1985.\u00a0 Growth hormone received after 1985 is acceptable. If you have been diagnosed with vCJD, CJD or any other TSE or have a blood relative diagnosed with genetic CJD (e.g., fCJD, GSS, or FFI) you cannot donate.\nSee\u00a0Eligibility Reference Material\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Diabetes",
+            "description": "Diabetics who are well controlled on insulin or oral medications are eligible to donate.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Heart Disease",
+            "description": "In general, acceptable as long as you have been medically evaluated and treated, have no current (within the last 6 months) heart related symptoms such as chest pain and have no limitations or restrictions on your normal daily activities.\nWait at least 6 months following an episode of angina.\nWait at least 6 months following a heart attack.\nWait at least 6 months after bypass surgery or angioplasty.\nWait at least 6 months after a change in your heart condition that resulted in a change to your medications\nIf you have a pacemaker, you can donate as long as your pulse is between 50 and 100 beats per minute and you meet the other heart disease criteria. Discuss your particular situation with your personal healthcare provider and the health historian at the time of donation.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Heart Murmur, Heart Valve Disorder",
+            "description": "Acceptable if you have a heart murmur as long as you have been medically evaluated and treated and have not had symptoms in the last 6 months and have no restrictions on your normal daily activities.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hemochromatosis (Hereditary)",
+            "description": "Acceptable if you meet all eligibility criteria and donation intervals.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hemoglobin, Hematocrit, Blood Count",
+            "description": "In order to donate blood, a woman must have a hemoglobin level of at least 12.5 g/dL, and a man must have a hemoglobin level of at least 13.0 g/dL. For all donors, the hemoglobin level can be no greater than 20 g/dL.\nWhen you come to donate blood at the American Red Cross, we measure your blood pressure, pulse, temperature, and hemoglobin because the results provide information about your current health at the time of your donation.\u00a0 The Red Cross does not diagnose medical conditions or offer treatment.\nPhysical exam results vary throughout the day.\u00a0 Stress, nutrition, illness, hydration, weight, activity, environment and even consumption of certain ingredients (for example, salt or caffeine) can affect the results of the physical exam.\u00a0 If your result does not meet the minimum/maximum requirement at the time of your attempted donation you will not be permitted to donate.\u00a0\u00a0\nSeparate requirements for hemoglobin level apply for Power Red.\nLearn more about Hematocrit.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hepatitis, Jaundice",
+            "description": "If you have signs or symptoms of hepatitis (inflammation of the liver) caused by a virus, or unexplained jaundice (yellow discoloration of the skin), you are not eligible to donate blood. If you ever tested positive for hepatitis B or hepatitis C, at any age, you are not eligible to donate, even if you were never sick or jaundiced from the infection.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hidradenitis Suppurativa",
+            "description": "You are not eligible to donate if you have ever had Hidradenitis suppurativa.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hepatitis Exposure",
+            "description": "If you live with or have had sexual contact with a person who has hepatitis, you must wait 3 months after the last contact.\nPersons who have been detained or incarcerated in a facility (juvenile detention, lockup, jail, or prison) for 72 hours or more consecutively (3 days) are deferred for 12 months from the date of last occurrence. This includes work release programs and weekend incarceration. These persons are at higher risk for exposure to infectious diseases.\nWait 3 months after receiving a blood transfusion (unless it was your own \"autologous\" blood), non-sterile needle stick or exposure to someone else's blood.\nUnable to Give Blood?\nConsider volunteering or hosting a blood drive through the Red Cross. You can also help people facing emergencies by making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "HIV, AIDS",
+            "description": "Do not give blood if you have AIDS or have ever had a positive test for HIV infection, or if you have done something that puts you at risk for becoming infected with HIV.\nYou are at risk for getting infected if in the past 3 months you:\n\nhave used needles to inject drugs, steroids, or anything not prescribed by your doctor\nhave had sexual contact with a new partner and have had anal sex\nA \u201cnew\u201d sexual partner is defined as having sex with someone for the first time OR having had sex with someone in a relationship that ended in the past, and having sex again with that person in the last 3 months\n\n\nhave received money, drugs or other payment for sex\nhave had sexual contact with more than one partner and have had anal sex\nhave had sexual contact with anyone who has ever had a positive test for HIV infection\nHave had sexual contact with anyone who, has received money, drugs, or other payment for sex, or used needles to inject drugs, steroids, or anything not prescribed by their doctor\n\nDo not give blood if you have any of the following conditions that can be signs or symptoms of HIV infection:\n\nFever\n\u00a0Enlarged lymph glands\n\u00a0Sore throat\n\u00a0Rash\n\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Hypertension, High Blood Pressure",
+            "description": "See \"Blood Pressure (High)\"\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Infections",
+            "description": "If you have a fever or an active infection, wait until the infection has resolved completely before donating blood.\n\nWait until finished taking oral antibiotics for an infection (bacterial or viral). Wait 10 days after the last antibiotic injection for an infection.\n\nThose who have had infections with Chagas Disease or Leishmaniasis are not eligible to donate.\u00a0Those who have had infection with Babesiosis can donate if it has been 2 years or more since the diagnosis or positive test if donating in the states of Connecticut, Delaware, Maine, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, Wisconsin or Washington, D.C.\u00a0 IF you plan to donate in any other state, Call 1-800-RED CROSS for more information.\n\nSee -\u00a0Eligibility Criteria: Alphabetical\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Monkeypox (exposure or diagnosis)",
+            "description": "Monkeypox infection or exposure, wait a minimum of 21 days, then contact the Red Cross Donor and Client Support Center at 1-866-236-3276  to discuss your particular situation to determine if you can donate.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Malaria",
+            "description": "Malaria is transmitted by mosquito bite in certain countries and may be transmitted to patients through blood transfusion. As such the FDA requires the Red Cross and other blood collection organizations to ask individuals to disclose during the donation process if they have traveled to or lived in malaria-countries or if they have had malaria.\nThe FDA does not currently require blood collectors to test blood donations for malaria. However, in March 2024 the FDA approved the first test of its kind with the ability to screen blood donations for malaria. It\u2019s important to know that the Red Cross is committed to ensuring the safety of the blood supply and is currently working with our industry partners and the FDA to evaluate current eligibility guidance regarding malaria and the newly approved test as well as other possible tests awaiting approval.\nIf you have traveled or lived in a malaria-risk country, a waiting period is required before you can donate blood.\n\nWait 3 years after completing treatment for malaria.\nWait 3 months after returning from a trip to an area where malaria is found.\nWait 3 years after living more than 5 years in a country or countries where malaria is found. An additional waiting period of 3 years is required if you have traveled to an area where malaria is found if you have not lived a consecutive 3 years in a country or countries where malaria is not found.\u00a0\n\nIf you have traveled outside of the United States and Canada, your travel destinations will be reviewed at the time of donation.\nPlease, come prepared to discuss your travel details when you donate. You can download the\u00a0travel form\u00a0and bring it with you to help in the assessment of your travel. You can call\u00a0866-236-3276\u00a0to speak with an eligibility specialist about your travel.\nIf, in the past 3 years, you have been outside the United States or Canada:\n\nWhat countries did you visit?\nWhere did you travel while in this country?\nDid you leave the city or resort at any time? If yes, where did you go?\nWhat mode of transportation did you use?\nHow long did you stay?\nWhat date did you return to the U.S.?\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Sickle Cell",
+            "description": "Platelet and plasma donation are acceptable if you have sickle cell trait. Recent research has shown that sickle cell trait-positive whole blood and Power Red donations do not adequately pass a quality control step due to a filter limitation during processing. As a result, donors who test positive for sickle cell trait after August \u00a07 \u2013 and current donors whose donations do not adequately pass the red blood cell filter process \u2013 are restricted from giving a whole blood or Power Red donations. It\u2019s important to note that this is an industry-wide filter limitation and not a donor issue.\nThose with sickle cell disease are not eligible to donate. Learn how blood donations help those affected by Sickle Cell Disease\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Skin Disease, Rash, Acne",
+            "description": "Acceptable as long as the skin over the vein to be used to collect blood is not affected. If the skin disease has become infected, wait until the infection has cleared before donating. Taking antibiotics to control acne does not disqualify you from donating.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Tuberculosis",
+            "description": "If you have active tuberculosis or are being treated for active tuberculosis do not donate. Acceptable if you have a positive skin test or blood test, but no active tuberculosis and are NOT taking antibiotics. If you are receiving antibiotics for a positive TB skin test or blood test only or if you are being treated for a tuberculosis infection, wait until treatment is successfully completed before donating.\n\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "Acupuncture",
+            "description": "Donors who have undergone acupuncture treatments are acceptable.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Blood Transfusion",
+            "description": "Wait for 3 months after receiving a blood transfusion from another person.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Dental Procedures and Oral Surgery",
+            "description": "Acceptable after dental procedures as long as there is no infection present. Wait until finishing antibiotics for a dental infection. Wait for 3 days after having oral surgery.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Hormone Replacement Therapy (HRT)",
+            "description": "Women on hormone replacement therapy for menopausal symptoms and prevention of osteoporosis are eligible to donate.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Organ/Tissue Transplants",
+            "description": "Wait 3 months after receiving any type of organ transplant from another person. If you ever received a dura mater (brain covering) transplant, you are not eligible to donate. This requirement is related to concerns about the brain disease, Creutzfeld-Jacob Disease (CJD).\nIf you ever received a transplant of animal organs or of living animal tissue - you are not eligible to donate blood. \u00a0Non-living animal tissues such as bone, tendon, or heart valves are acceptable.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Surgery",
+            "description": "It is not necessarily surgery but the underlying condition that precipitated the surgery that requires evaluation before donation. Evaluation is on a case by case basis. Discuss your particular situation with the health historian at the time of donation.\n\n",
+            "category": "Medical Treatments"
+        },
+        {
+            "title": "Age",
+            "description": "You must be at least 17 years old to donate to the general blood supply, or 16 years old with parental/guardian consent, if allowed by state law. Learn more. There is no upper age limit for blood donation as long as you are well with no restrictions or limitations to your activities.\n\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Men Who Have Had Sex With Men (MSM)",
+            "description": "On Aug. 7, 2023, the American Red Cross implemented the FDA\u2019s updated final guidance regarding an individual donor assessment for all blood donors regardless of gender or sexual orientation. This change eliminated previous FDA eligibility criteria based on sexual orientation, which restricted sexually active gay and bisexual men from giving blood.\nIndividuals who have been deferred for MSM in the past can initiate donor reinstatement by contacting the Red Cross Donor and Client Support Center at 1-866-236-3276. Individuals with questions about their donation eligibility can contact the Red Cross Donor and Client Support Center at 1-866-236-3276.\nFor the purposes of blood donation gender is self-identified and self-reported, which is relevant to the transgender community.\nMore information about the FDA policy is available for LGBTQ+ donors.\nUnable to Give Blood?\nConsider volunteering or hosting a blood drive through the Red Cross. You can also help people facing emergencies by making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Intravenous Drug Use",
+            "description": "Wait 3 months after using needles to inject drugs that were not prescribed by a physician. This requirement is related to concerns about hepatitis and HIV.\u00a0Learn more about hepatitis and blood donation.\n\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Pregnancy, Nursing",
+            "description": "Persons who are pregnant are not eligible to donate. Wait 6 weeks after giving birth.\n\nUnable to Give Blood?\nConsider volunteering or hosting a blood drive through the Red Cross. You can also help people facing emergencies by making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Tattoo",
+            "description": "Wait 3 months after a tattoo if the tattoo was applied in a state that does not regulate tattoo facilities. Currently, the only states that DO NOT regulate tattoo facilities are: District of Columbia, Georgia, Idaho, Maryland, Massachusetts, New Hampshire, New York, Pennsylvania, Utah and Wyoming. This requirement is related to concerns about hepatitis. Learn more about hepatitis and blood donation.\n\nA tattoo is acceptable if the tattoo was applied by a state-regulated entity using sterile needles and ink that is not reused. Cosmetic tattoos (including microblading of eyebrows only) applied in a licensed establishment in a regulated state using sterile needles and ink that is not reused is acceptable. Discuss your particular situation with the health historian at the time of donation.\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Sexually Transmitted Disease",
+            "description": "Wait 3 months after treatment for syphilis or gonorrhea.\nAcceptable if it has been more than 3 months since you completed treatment for syphilis or gonorrhea.\u00a0However, syphilis antibodies persist for long periods of time following treatment and resolution of past infection and the confirmatory test typically remains positive for life following treated infection.\nChlamydia, venereal warts (human papilloma virus), or genital herpes are not a cause for deferral if you are feeling healthy and well and meet all other eligibility requirements.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n\n",
+            "category": "Sexually Transmitted Diseases"
+        },
+        {
+            "title": "HIV, AIDS",
+            "description": "Do not give blood if you have AIDS or have ever had a positive test for HIV infection, or if you have done something that puts you at risk for becoming infected with HIV.\nYou are at risk for getting infected if in the past 3 months you:\n\nhave used needles to inject drugs, steroids, or anything not prescribed by your doctor\nhave had sexual contact with a new partner and have had anal sex.\u00a0 A \u201cnew\u201d sexual partner is defined as having sex with someone for the first time OR having had sex with someone in a relationship that ended in the past, and having sex again with that person in the last 3 months\u00a0\nhave had sexual contact with more than one partner and have had anal sex\nhave received money, drugs or other payment for sex\nhave had sexual contact with anyone who has ever had a positive test for HIV infection\u00a0\nhave had sexual contact with anyone who, has received money, drugs, or other payment for sex, or used needles to inject drugs, steroids, or anything not prescribed by their doctor\n\nDo not give blood if you have any of the following conditions that can be signs or symptoms of HIV infection:\n\nFever\n\u00a0Enlarged lymph glands\n\u00a0Sore throat\n\u00a0Rash\n\n\n\nDo not give blood if you have ever taken any medication to treat HIV infection also known as antiretroviral therapy (ART).\nWait 3 months after the last dose of any oral medications taken to prevent HIV infection [also known as pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP) - Truvada (Tenofovir), Descovy (emtricitabine), Tivicay (dolutegravir) and \u202fIsentress (raltegravir) are oral medications given for exposure to HIV.\nWait 2 years after the last injection or shot of medication taken to prevent HIV infection also known as pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP)- Apretude (cabotegravir ) are injections or shots given for exposure to HIV.\nUnable to Give Blood?\nConsider\u00a0volunteering\u00a0or\u00a0hosting a blood drive\u00a0through the Red Cross. You can also help people\u00a0facing emergencies by\u00a0making a financial donation\u202fto support the Red Cross\u2019s greatest needs. Your gift enables the Red Cross to ensure an ongoing blood supply, provide humanitarian support to families in need and prepare communities by teaching lifesaving skills.\n",
+            "category": "Sexually Transmitted Diseases"
+        },
+        {
+            "title": "Venereal Diseases",
+            "description": "See also \"Sexually Transmitted Disease\"\nWait 3 months after treatment for syphilis or gonorrhea.\u00a0However, syphilis antibodies persist for long periods of time following treatment and resolution of past infection and the confirmatory test typically remains positive for life following treated infection.\nChlamydia, venereal warts (human papilloma virus), or genital herpes are not a cause for deferral if you are feeling healthy and well and meet all other eligibility requirements.\n",
+            "category": "Sexually Transmitted Diseases"
+        },
+        {
+            "title": "Syphilis/Gonorrhea",
+            "description": "Wait 3 months after treatment for syphilis or gonorrhea.\u00a0However, syphilis antibodies persist for long periods of time following treatment and resolution of past infection and the confirmatory test typically remains positive for life following treated infection.\n\n",
+            "category": "Sexually Transmitted Diseases"
+        },
+        {
+            "title": "Piercing (ears, body), Electrolysis",
+            "description": "Acceptable as long as the instruments used were single-use equipment and disposable (which means both the gun and the earring cassette were disposable). Wait 3 months if a piercing was performed using a reusable gun or any reusable instrument.\nWait 3 months if there is any question whether or not the instruments used were single-use equipment. This requirement is related to concerns about hepatitis. Learn more about hepatitis and blood donation.\n",
+            "category": "Personal Information"
+        },
+        {
+            "title": "Measles Exposure",
+            "description": "Acceptable if you are healthy and well and have been vaccinated for measles more than 4 weeks ago or were born before 1956. If you have not been vaccinated or it has been less than 4 weeks since being vaccinated, wait 4 weeks from the date of the vaccination or exposure before donating.\n",
+            "category": "Medical Conditions that Affect Eligibility"
+        },
+        {
+            "title": "I am interested in hosting a blood drive, who do I contact?",
+            "description": "Please complete this\u00a0online form\u00a0and a Red Cross representative will contact you.\n\n",
+            "category": "About Hosting"
+        },
+        {
+            "title": "What are the requirements for an organization to host a blood drive?",
+            "description": "Any organization can participate in the blood program. Based on experience, the organization should have enough members to hold a blood drive, but your Red Cross representative will work with you determine how you can partner with the Red Cross if you have fewer people. Learn more about requirements for hosting.\n\n",
+            "category": "About Hosting"
+        },
+        {
+            "title": "Will the Red Cross bring a blood drive to our location?",
+            "description": "Blood drives can be held either on a Red Cross blood donation bus or in the facility of the hosting organization. Most sponsors choose to host the drive in their facility. However, our Red Cross representative will work with you to determine the best set up for your blood drive.\n\n",
+            "category": "About Hosting"
+        },
+        {
+            "title": "I do not have enough appointments to meet the blood drive goal, what can I do?",
+            "description": "Please\u00a0see recruitment strategies and tips.\n\n",
+            "category": "About Hosting"
+        },
+        {
+            "title": "Can I give donors incentives or gifts for participating?",
+            "description": "All donors are required to be truly \u201cvolunteer\u201d donors by the FDA, and not be reimbursed for their donation, so any gift or incentive offered must be offered to all participants of a blood drive \u2013 donors and volunteers alike. This helps ensure all people are honest about their health history. All incentives offered must be reviewed and approved by your Red Cross representative.\n\n",
+            "category": "About Hosting"
+        },
+        {
+            "title": "Which category am I in?",
+            "description": "If you work for an American Red Cross Immunohematology Reference Lab (IRL) or Creative Testing Solutions (CTS) you are an \u201cinternal\u201d customer. Any other customer is considered \u201cexternal.\u201d\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Why do I need to get Directions for Use online?",
+            "description": "Our easy to use website contains versions of the Directions for Use associated with each in date lot number of product. This saves everyone money by not printing extra paper copies.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Why do your reagents vary in color?",
+            "description": "Some antibody specificities require adsorption with red blood cells to remove unwanted antibodies (eg. Anti-A, Anti-B, Anti-D). During this process some hemolysis occurs, which colors the serum. Depending on the number of adsorptions required, the color may be darker or lighter. The color does not affect the antigen-antibody reaction.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Sometimes the reagents look cloudy. What causes this?",
+            "description": "Human plasma is composed of many proteins. They are sometimes more visible from one reagent to another.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Who should I order my product from?",
+            "description": "American Red Cross IRLs or CTS order their products directly from DMD via Contact DMD\u00a0. External customers must order products via our distributor,\u00a0Hemo Bioscience, Inc.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "What happens if I cannot locate the directions for my product?",
+            "description": "Navigate to the specific page associated with the product. Select the lot number (printed on the product vial); the associated Directions for Use will load as a .pdf file. If this does not work, please contact us at Contact DMD\n\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Why do external customers have to order from Hemo Bioscience, Inc.?",
+            "description": "Hemo Bioscience, Inc. offers a more comprehensive product line to make your ordering easier.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "There doesn't appear to be any difference between lots.",
+            "description": "Directions for Use do not change often; the version is updated when changes are made. The version is located following the text, usually at the bottom right.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "How are they shipped?",
+            "description": "\nProducts are shipping to internal IRL and CTS\n\u00a0customers Monday through Thursday via overnight delivery. Arrangements can be made to schedule your preferred delivery date.\nExternal customers should check with\u00a0Hemo bioscience, Inc.\u00a0for details on their shipping arrangements.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "How long will I have until the expiration date?",
+            "description": "\nOur red cell products will have ~6 weeks until the expiration date from the date of shipping\nBlood grouping reagents will have at least 4 weeks until expiration for internal customers, and 6 months until expiration for external customers ordering through\u00a0Hemo Bioscience, Inc.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "Are the blood grouping reagents monoclonal?",
+            "description": "No, they are produced from pools of donor antibody plasma, making them polyclonal reagents.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "How should I store my product?",
+            "description": "Storage requirements are listed on the label and in the Directions for Use.\n\n",
+            "category": "Diagnostic Manufacturing"
+        },
+        {
+            "title": "There doesn't appear to be any difference between lots.",
+            "description": "Directions for Use do not change often; the version is updated when changes are made. The version is located following the text, usually at the bottom right.\n\n",
+            "category": "Diagnostic Manufacturing"
+        }
+    ]
+}
