@@ -9,6 +9,11 @@ langchain-community = "*"
 unstructured = "*"
 beautifulsoup4 = "*"
 chromadb = "*"
+transformers = "*"
+torch = "*"
+torchaudio = "*"
+torchvideo = "*"
+streamlit = "*"
 
 [dev-packages]
 ipykernel = "*"
