@@ -25,11 +25,15 @@ with st.sidebar:
 
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["content"])
+    if "context" in msg:
+        st.chat_message(msg["role"]).write(msg["context"])
+        
 
 if question := st.chat_input():
     st.session_state.messages.append({"role": "user", "content": question})
     st.chat_message("user").write(question)
     with st.spinner("Thinking..."):
-        answer = st.session_state["chat"].ask(question)
-    st.session_state.messages.append({"role": "assistant", "content": answer})
+        answer, samples = st.session_state["chat"].ask(question)
+    st.session_state.messages.append({"role": "assistant", "content": answer, "context": samples})
     st.chat_message("assistant").write(answer)
+    st.chat_message("assistant").write(samples)
