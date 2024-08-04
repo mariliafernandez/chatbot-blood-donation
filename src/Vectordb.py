@@ -5,9 +5,10 @@ from uuid import uuid4
 
 
 class Vectordb:
-    def __init__(self) -> None:
+    def __init__(self, name:str) -> None:
         self.client = PersistentClient(path="./chromadb")
-        self.collection = self.get_or_create_collection("faq_redcross")
+        self.collection = self.get_or_create_collection(name)
+        self.name = name
 
     def get_or_create_collection(self, collection_name: str) -> Collection:
         if collection_name in [c.name for c in self.client.list_collections()]:
@@ -16,9 +17,9 @@ class Vectordb:
 
     def create_and_populate_collection(self, collection_name: str) -> Collection:
         collection = self.client.create_collection(name=collection_name)
-        with open("data/faq.json", "r", encoding="utf-8") as fp:
+        with open(f"data/{self.name}.json", "r", encoding="utf-8") as fp:
             data = json.load(fp)
-        self.add_faq_records(data["faqs"])
+        self.add_faq_records(data["data"])
         return collection
 
     def add_faq_records(self, faq_records: List[Dict]) -> None:
@@ -38,5 +39,5 @@ class Vectordb:
 
     def _build_faq_string(self, faq_record: Dict) -> str:
         if faq_record["category"] != None and (faq_record["category"]).strip() != "":
-            return f"Category: {faq_record['category']} \n\nQ: {faq_record['title']} \n\nA: {faq_record['description']}"
-        return f"Q: {faq_record['title']} \n\nA: {faq_record['description']}"
+            return f"Category: {faq_record['category']} \n\nQ: {faq_record['question']} \n\nA: {faq_record['answer']}"
+        return f"Q: {faq_record['question']} \n\nA: {faq_record['answer']}"
