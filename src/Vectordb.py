@@ -7,35 +7,31 @@ from uuid import uuid4
 class Vectordb:
     def __init__(self) -> None:
         self.client = PersistentClient(path="./chromadb")
+        self.collection = self.get_or_create_collection("faq_redcross")
 
-    def create_collection(self, collection_name: str) -> Collection:
+    def get_or_create_collection(self, collection_name: str) -> Collection:
+        if collection_name in [c.name for c in self.client.list_collections()]:
+            return self.client.get_collection(collection_name)
+        return self.create_and_populate_collection(collection_name)
+
+    def create_and_populate_collection(self, collection_name: str) -> Collection:
+        collection = self.client.create_collection(name=collection_name)
         with open("data/faq.json", "r", encoding="utf-8") as fp:
             data = json.load(fp)
-        collection = self.client.create_collection(name=collection_name)
-        self.add_faq_records(data["faqs"], collection)
+        self.add_faq_records(data["faqs"])
         return collection
 
-    def get_collection(self, collection_name) -> Collection:
-        try:
-            return self.client.get_collection(name=collection_name)
-        except Exception:
-            return self.create_collection(collection_name)
-
-    def add_faq_records(
-        self,
-        faq_records: List[Dict],
-        collection: Collection,
-    ) -> None:
+    def add_faq_records(self, faq_records: List[Dict]) -> None:
         documents = [self._build_faq_string(item) for item in faq_records]
-        collection.add(
+        self.collection.add(
             documents=documents, ids=[str(uuid4()) for _ in range(len(documents))]
         )
         print(
-            f"Added {len(documents)} records, collection {collection.name} has now {collection.count()} records."
+            f"Added {len(documents)} records, collection {self.collection.name} has now {self.collection.count()} records."
         )
 
-    def retrieve(self, query: str, collection: Collection, n: int = 3) -> List[str]:
-        results = collection.query(
+    def retrieve(self, query: str, n: int = 3) -> List[str]:
+        results = self.collection.query(
             query_texts=[query], n_results=n, include=["documents"]
         )
         return results["documents"][0]
