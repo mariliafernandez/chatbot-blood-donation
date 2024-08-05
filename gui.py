@@ -1,13 +1,17 @@
 import streamlit as st
 from src.Chat import Chat
+from src.Logging import Logging
 
 st.title(":drop_of_blood: Blood Donation Chatbot")
+source = "redcross"
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "Hello human! How can I help you?"}]
 if "chat" not in st.session_state:
     with st.spinner("Initializing chat..."):
-        st.session_state["chat"] = Chat()
+        st.session_state["chat"] = Chat(source=source)
+if "log" not in st.session_state:
+    st.session_state["log"] = Logging("logs")
 
 with st.sidebar:
     st.header(":heavy_plus_sign: Add example to database")
@@ -37,3 +41,4 @@ if question := st.chat_input():
     st.session_state.messages.append({"role": "assistant", "content": answer, "context": samples})
     st.chat_message("assistant").write(answer)
     st.chat_message("assistant").write(samples)
+    st.session_state["log"].add_and_write(question, samples, answer)

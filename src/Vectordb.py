@@ -6,21 +6,22 @@ from uuid import uuid4
 
 class Vectordb:
     def __init__(self, name:str) -> None:
-        self.client = PersistentClient(path="./chromadb")
-        self.collection = self.get_or_create_collection(name)
         self.name = name
+        self.client = PersistentClient(path="./chromadb")
+        self.get_or_create_collection(name)
 
     def get_or_create_collection(self, collection_name: str) -> Collection:
         if collection_name in [c.name for c in self.client.list_collections()]:
-            return self.client.get_collection(collection_name)
-        return self.create_and_populate_collection(collection_name)
+            self.collection = self.client.get_collection(collection_name)
+        else:
+            self.create_and_populate_collection(collection_name)
 
     def create_and_populate_collection(self, collection_name: str) -> Collection:
-        collection = self.client.create_collection(name=collection_name)
+        self.collection = self.client.create_collection(name=collection_name)
         with open(f"data/{self.name}.json", "r", encoding="utf-8") as fp:
             data = json.load(fp)
         self.add_faq_records(data["data"])
-        return collection
+        return self.collection
 
     def add_faq_records(self, faq_records: List[Dict]) -> None:
         documents = [self._build_faq_string(item) for item in faq_records]
@@ -38,6 +39,6 @@ class Vectordb:
         return results["documents"][0]
 
     def _build_faq_string(self, faq_record: Dict) -> str:
-        if faq_record["category"] != None and (faq_record["category"]).strip() != "":
+        if 'category' in faq_record and faq_record["category"] != None and (faq_record["category"]).strip() != "":
             return f"Category: {faq_record['category']} \n\nQ: {faq_record['question']} \n\nA: {faq_record['answer']}"
         return f"Q: {faq_record['question']} \n\nA: {faq_record['answer']}"
