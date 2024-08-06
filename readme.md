@@ -19,6 +19,28 @@ To run the chatbot feature on the command line execute the `bot.py` script:
 $ python bot.py
 ```
 
+To add new samples to the database run the `add_data.py` script and pass a json file as argument containing the samples (see example below):
+```console
+$ python add_data.py <path_json_file>
+```
+JSON file: 
+```json
+{
+    "data": [
+        {
+            "question": "question (str)",
+            "answer": "answer (str)",
+            "category": "category (str | null)"
+        },
+        {
+            "question": "question (str)",
+            "answer": "answer (str)",
+            "category": "category (str | null)"
+        }
+    ]
+}
+```
+
 ## Examples
 Here are some examples of questions you might ask:
 1. What should I expect during the blood donation appointment?
@@ -33,24 +55,3 @@ Here are some examples of questions you might ask:
 10. How does my weight and height affect the donation?
 
 
-To add new samples to the database run the `add_data.py` script and pass a json file as argument containing the samples (see example below):
-```console
-$ python add_data.py <path_json_file>
-```
-JSON file: 
-```json
-{
-    "data": [
-        {
-            "title": "question (str)",
-            "description": "answer (str)",
-            "category": "category (str | null)"
-        },
-        {
-            "title": "question (str)",
-            "description": "answer (str)",
-            "category": "category (str | null)"
-        }
-    ]
-}
-```

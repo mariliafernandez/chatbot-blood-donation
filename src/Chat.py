@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List, Dict, Tuple
 from src.Vectordb import Vectordb
 from transformers import pipeline
 
@@ -12,6 +12,10 @@ Se você não souber a resposta, NÃO invente, apenas diga que não sabe.""",
 }
 
 
+class EmptyQuestion(Exception):
+    pass
+
+
 class Chat:
     def __init__(self, source: str) -> None:
         self.source = source
@@ -20,7 +24,8 @@ class Chat:
             "text-generation", model="TinyLlama/TinyLlama-1.1B-Chat-v1.0"
         )
 
-    def ask(self, question: str) -> str:
+    def ask(self, question: str) -> Tuple[str, List[str]]:
+        """Returns a tuple containing de answer string and a List with the retrieved samples used on few-shot prompt"""
         samples = self._get_related_samples(question)
         prompt = self._build_prompt(samples)
         result = self.pipe(
@@ -35,9 +40,13 @@ class Chat:
         return answer, samples
 
     def _get_related_samples(self, question: str) -> List[Dict]:
+        """Returns a List containing the samples from vector database most related to que question"""
+        if question.strip() == "":
+            raise EmptyQuestion
         return self.vectordb.retrieve(question)
 
     def _build_prompt(self, samples: List[str]) -> str:
+        """Returns the final prompt string containing the given samples as few-shot"""
         prompt = BASE_PROMPT[self.source]
 
         for i, sample in enumerate(samples, start=1):

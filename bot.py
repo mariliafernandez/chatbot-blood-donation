@@ -1,4 +1,4 @@
-from src.Chat import Chat
+from src.Chat import Chat, EmptyQuestion
 from src.Logging import Logging
 
 
@@ -10,10 +10,9 @@ if __name__ == "__main__":
     while question != '0':
         try:
             answer, samples = chat.ask(question)
-        except Exception as e:
-            err_msg = f"Unable to process answer due to the following error: {str(e)}"
+        except EmptyQuestion as e:
+            err_msg = "Question cannot be empty."
             print(err_msg)
-            log.add(question, [], err_msg)
         else:
             print("R: ", answer)
             log.add(question, samples, answer)

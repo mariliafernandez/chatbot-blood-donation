@@ -11,16 +11,25 @@ class Logging:
         self.created = datetime.now()
         self.records = []
 
-    def add(self, question: str, retrieved: List[str], answer: str):
+    def add(
+        self,
+        question: str,
+        retrieved: List[str],
+        answer: str,
+        error_msg: str | None = None,
+    ):
+        """Add a new record to log containing question and retrieved samples"""
         obj = {
             "question": question,
             "retrieved": retrieved,
             "answer": answer,
             "timestamp": datetime.now().isoformat(),
+            "error": error_msg,
         }
         self.records.append(obj)
 
     def write(self):
+        """Write chat log to a logfile"""
         filename = self.created.strftime("%Y%m%d-%H%M%S")
         filepath = self.dir / f"{filename}.json"
 
@@ -36,5 +45,6 @@ class Logging:
         print("saved logfile:", filepath)
 
     def add_and_write(self, question: str, retrieved: List[str], answer: str):
+        """Adds a new record to log and writes it to a logfile"""
         self.add(question, retrieved, answer)
         self.write()
