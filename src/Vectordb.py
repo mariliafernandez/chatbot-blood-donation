@@ -8,6 +8,10 @@ class MissingField(Exception):
     pass
 
 
+class InvalidField(Exception):
+    pass
+
+
 class Vectordb:
     def __init__(self, name: str) -> None:
         self.name = name
@@ -29,14 +33,17 @@ class Vectordb:
         self.add_faq_records(data["data"])
         return self.collection
 
-    def validate_fields(self, faq_record: Dict) -> bool:
-        required_fields = ["question", "answer"]
-        return all([required in faq_record.keys() for required in required_fields])
+    def validate_fields(self, faq_record: Dict) -> None:
+        """Check if required fields are missing or empy and raise exceptions"""
+        if "question" not in faq_record or "answer" not in faq_record:
+            raise MissingField
+        if faq_record["question"].strip() == "" or faq_record["answer"].strip() == "":
+            raise InvalidField
 
     def add_faq_records(self, faq_records: List[Dict]) -> None:
         """Adds a new FAQ record to database"""
-        if not all([self.validate_fields(record) for record in faq_records]):
-            raise MissingField
+        for record in faq_records:
+            self.validate_fields(record)
 
         documents = [self._build_faq_string(item) for item in faq_records]
         self.collection.add(

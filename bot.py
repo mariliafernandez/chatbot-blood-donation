@@ -15,8 +15,6 @@ if __name__ == "__main__":
             print(err_msg)
         else:
             print("R: ", answer)
-            log.add(question, samples, answer)
+            log.add_and_write(question, samples, answer)
         
         question = input("\nEnter your question: ")
-
-    log.write()

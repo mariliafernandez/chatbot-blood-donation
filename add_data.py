@@ -1,5 +1,5 @@
 from src.Chat import Chat
-from src.Vectordb import MissingField
+from src.Vectordb import MissingField, InvalidField
 from pathlib import Path
 import sys
 import json
@@ -17,6 +17,8 @@ if __name__ == "__main__":
             try:
                 chat.vectordb.add_faq_records(data['data'])
             except MissingField:
-                print("Invalid input data: Missing required fields.\nCheck readme.md for instructions.")
+                print("Missing required field in input data, check readme.md for instructions.")
+            except InvalidField:
+                print("Question and answer cannot be empty strings")
         else:
             print(f"{json_path} does not exist")

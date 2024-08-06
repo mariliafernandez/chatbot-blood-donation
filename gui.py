@@ -1,6 +1,7 @@
 import streamlit as st
 from src.Chat import Chat
 from src.Logging import Logging
+from src.Vectordb import InvalidField
 
 st.title(":drop_of_blood: Blood Donation Chatbot")
 source = "redcross"
@@ -10,11 +11,14 @@ if "messages" not in st.session_state:
     st.session_state["messages"] = [
         {"role": "assistant", "content": "Hello human! How can I help you?"}
     ]
+
 if "chat" not in st.session_state:
     with st.spinner("Initializing chat..."):
         st.session_state["chat"] = Chat(source=source)
+
 if "log" not in st.session_state:
     st.session_state["log"] = Logging("logs")
+
 
 with st.sidebar:
     st.header(":heavy_plus_sign: Add example to database")
@@ -37,8 +41,12 @@ with st.sidebar:
                 "category": text_input_category,
             }
             with st.spinner("In progress..."):
-                st.session_state["chat"].vectordb.add_faq_records([record])
-            st.success("Done!")
+                try:
+                    st.session_state["chat"].vectordb.add_faq_records([record])
+                except InvalidField:
+                    st.error("Question and answer are required")
+                else:
+                    st.success("Done!")
 
 # Render chat history
 for msg in st.session_state.messages:
@@ -51,6 +59,7 @@ if question := st.chat_input():
     if question.strip() != "":  # Ignore blank messages
         st.session_state.messages.append({"role": "user", "content": question})
         st.chat_message("user").write(question)
+
         with st.spinner("Thinking..."):
             try:
                 answer, samples = st.session_state["chat"].ask(question)
